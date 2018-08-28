@@ -24,9 +24,11 @@ $yellow:  #ffc107 !default;
 $green:   #28a745 !default;
 $teal:    #20c997 !default;
 $cyan:    #17a2b8 !default;
+$granite: #656F58 !default;
+$brown:   #504B3A !default;
 
-$primary:       $cyan !default;
-$secondary:     $gray-600 !default;
+$primary:       $granite !default;
+$secondary:     $brown !default;
 $success:       $green !default;
 $info:          $orange !default;
 $warning:       $yellow !default;
